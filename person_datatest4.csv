@@ -1,0 +1,183 @@
+Weight,Sex,Age,Continent,Height Class
+190,male,37,North America,6-
+180,female,40,North America,5-
+150,male,34,North America,5+
+140,female,35,North America,5-
+170,male,36,North America,5+
+160,female,40,North America,5-
+170,male,37,North America,5+
+160,female,40,North America,5-
+170,male,35,North America,5-
+160,female,38,North America,4+
+170,male,36,North America,5+
+160,female,38,North America,5-
+170,male,40,North America,5+
+160,female,42,North America,4+
+170,male,39,North America,5+
+160,female,42,North America,5-
+170,male,40,North America,5+
+160,female,43,North America,4+
+170,male,35,North America,5+
+160,female,38,North America,5-
+170,male,38,North America,5-
+160,female,41,North America,5-
+170,male,36,North America,5+
+160,female,37,North America,5-
+170,male,37,North America,5+
+160,female,40,North America,4+
+170,male,37,North America,5+
+160,female,39,North America,5-
+170,male,37,North America,5+
+160,female,39,North America,5+
+165,male,36,North America,5+
+155,female,38,North America,5-
+175,male,38,North America,5+
+165,female,41,North America,5-
+180,male,39,North America,5+
+170,female,42,North America,5-
+160,male,35,North America,5+
+150,female,37,North America,4+
+170,male,38,North America,5+
+160,female,40,North America,5-
+170,male,39,North America,5+
+160,female,41,North America,5-
+175,male,37,North America,5+
+165,female,39,North America,5-
+170,male,36,North America,5+
+160,female,38,North America,5-
+185,male,38,North America,5+
+175,female,40,North America,4+
+175,male,37,North America,5+
+165,female,39,North America,5-
+160,male,35,North America,6-
+150,female,37,North America,5-
+165,male,36,North America,5-
+155,female,38,North America,4+
+170,male,38,North America,5-
+160,female,41,North America,5-
+160,male,37,North America,5+
+150,female,39,North America,6+
+170,male,39,North America,5+
+160,female,41,North America,4+
+165,male,36,North America,5+
+155,female,39,North America,5-
+170,male,38,North America,5-
+160,female,40,North America,5-
+175,male,37,North America,5+
+165,female,39,North America,5-
+160,male,36,North America,6-
+150,female,38,North America,5+
+175,male,38,North America,5+
+165,female,40,North America,5-
+180,male,39,North America,6-
+170,female,42,North America,5-
+170,male,37,North America,5+
+160,female,39,North America,5-
+175,male,38,North America,5+
+165,female,40,North America,5-
+170,male,39,North America,6-
+160,female,41,North America,5-
+175,male,37,North America,5+
+165,female,39,North America,4-
+160,male,36,North America,6+
+150,female,38,North America,4+
+180,male,38,North America,5-
+170,female,41,North America,4+
+180,male,39,North America,5-
+170,female,42,North America,5-
+165,male,36,North America,5+
+155,female,39,North America,5-
+160,male,37,North America,5+
+150,female,39,North America,4+
+185,male,39,Europe,5+
+152,female,41,Europe,5-
+166,male,40,Europe,5+
+156,female,41,Europe,4+
+160,female,40,Europe,5-
+170,male,35,Europe,5+
+160,female,38,Europe,4+
+170,male,36,Europe,5+
+160,female,38,Europe,5-
+170,male,40,Europe,5+
+160,female,42,Europe,4+
+170,male,39,Europe,5+
+160,female,42,Europe,5-
+170,male,40,Europe,5+
+160,female,43,Europe,4+
+170,male,35,Europe,5-
+160,female,38,Europe,5-
+170,male,38,Europe,5+
+160,female,41,Europe,5-
+170,male,36,Europe,5+
+160,female,37,Europe,5-
+170,male,37,Europe,5+
+163,male,23,South America,5+
+155,female,25,South America,4+
+158,male,28,South America,5-
+139,female,30,South America,4+
+163,male,23,South America,5+
+155,female,25,South America,4+
+158,male,28,South America,5-
+139,female,30,South America,4+
+166,male,32,South America,5+
+148,female,27,South America,5-
+170,male,29,South America,5+
+152,female,31,South America,5-
+162,male,34,South America,5+
+144,female,26,South America,5-
+157,male,37,South America,5-
+142,female,29,South America,4+
+169,male,31,South America,5+
+156,female,28,South America,5-
+163,male,33,South America,6-
+150,female,30,South America,4+
+191,male,36,Australia,6+
+158,female,38,Australia,5-
+181,male,33,Australia,5+
+168,female,35,Australia,5+
+176,male,37,Australia,6+
+159,female,40,Australia,5+
+169,male,34,Australia,5+
+152,female,36,Australia,5-
+183,male,31,Australia,6-
+155,female,39,Australia,5+
+177,male,32,Australia,6-
+147,female,37,Australia,4+
+171,male,35,Australia,5+
+150,female,38,Australia,5-
+188,male,39,Australia,6-
+166,female,36,Australia,5-
+171,male,37,Asia,5+
+131,female,39,Asia,4+
+143,male,28,Asia,5+
+121,female,30,Asia,4-
+162,male,36,Asia,5+
+139,female,38,Asia,4+
+155,male,33,Asia,5-
+147,female,35,Asia,4+
+151,male,32,Asia,5+
+126,female,34,Asia,5-
+136,male,29,Asia,4+
+128,female,31,Asia,4+
+149,male,31,Asia,5+
+135,female,33,Asia,4-
+154,male,30,Asia,5+
+130,female,32,Asia,4+
+140,male,18,Africa,5-
+120,female,20,Africa,4+
+150,male,19,Africa,5-
+132,female,23,Africa,5-
+140,male,18,Africa,5+
+120,female,20,Africa,4+
+150,male,19,Africa,5+
+132,female,23,Africa,4+
+147,male,22,Africa,5-
+129,female,21,Africa,4+
+142,male,20,Africa,5-
+133,female,24,Africa,4+
+137,male,23,Africa,3+
+126,female,22,Africa,4-
+141,male,21,Africa,5-
+130,female,25,Africa,5-
+136,male,19,Africa,4-
+125,female,24,Africa,3+

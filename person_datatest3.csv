@@ -1,0 +1,183 @@
+Weight,Sex,Age,Continent,Height Class
+190,male,37,North America,179
+180,female,40,North America,163
+150,male,34,North America,177
+140,female,35,North America,164
+170,male,36,North America,178
+160,female,40,North America,165
+170,male,37,North America,178
+160,female,40,North America,165
+170,male,35,North America,169
+160,female,38,North America,157
+170,male,36,North America,179
+160,female,38,North America,164
+170,male,40,North America,177
+160,female,42,North America,157
+170,male,39,North America,177
+160,female,42,North America,163
+170,male,40,North America,178
+160,female,43,North America,157
+170,male,35,North America,169
+160,female,38,North America,163
+170,male,38,North America,169
+160,female,41,North America,163
+170,male,36,North America,177
+160,female,37,North America,163 
+170,male,37,North America,177
+160,female,40,North America,157
+170,male,37,North America,177
+160,female,39,North America,163
+170,male,37,North America,179
+160,female,39,North America,175
+165,male,36,North America,175
+155,female,38,North America,162
+175,male,38,North America,180
+165,female,41,North America,166
+180,male,39,North America,177
+170,female,42,North America,163
+160,male,35,North America,174
+150,female,37,North America,160
+170,male,38,North America,176
+160,female,40,North America,162
+170,male,39,North America,175
+160,female,41,North America,163
+175,male,37,North America,178
+165,female,39,North America,164
+170,male,36,North America,177
+160,female,38,North America,162
+185,male,38,North America,176
+175,female,40,North America,162
+175,male,37,North America,178
+165,female,39,North America,164
+160,male,35,North America,180
+150,female,37,North America,167
+165,male,36,North America,175
+155,female,38,North America,162
+170,male,38,North America,176
+160,female,41,North America,162
+160,male,37,North America,174
+150,female,39,North America,161
+170,male,39,North America,175
+160,female,41,North America,162
+165,male,36,North America,177
+155,female,39,North America,164
+170,male,38,North America,176
+160,female,40,North America,162
+175,male,37,North America,178
+165,female,39,North America,163
+160,male,36,North America,180
+150,female,38,North America,168
+175,male,38,North America,177
+165,female,40,North America,163
+180,male,39,North America,178
+170,female,42,North America,164
+170,male,37,North America,176
+160,female,39,North America,162
+175,male,38,North America,175
+165,female,40,North America,162
+170,male,39,North America,174
+160,female,41,North America,162
+175,male,37,North America,178
+165,female,39,North America,164
+160,male,36,North America,180
+150,female,38,North America,168
+180,male,38,North America,178
+170,female,41,North America,164
+180,male,39,North America,178
+170,female,42,North America,165
+165,male,36,North America,178
+155,female,39,North America,163
+160,male,37,North America,175
+150,female,39,North America,160
+185,male,39,Europe,178
+152,female,41,Europe,163
+166,male,40,Europe,178
+156,female,41,Europe,163
+160,female,40,Europe,165
+170,male,35,Europe,169
+160,female,38,Europe,157
+170,male,36,Europe,179
+160,female,38,Europe,164
+170,male,40,Europe,177
+160,female,42,Europe,157
+170,male,39,Europe,177
+160,female,42,Europe,163
+170,male,40,Europe,178
+160,female,43,Europe,157
+170,male,35,Europe,169
+160,female,38,Europe,163
+170,male,38,Europe,169
+160,female,41,Europe,163
+170,male,36,Europe,177
+160,female,37,Europe,163
+170,male,37,Europe,177
+163,male,23,South America,170
+155,female,25,South America,158
+158,male,28,South America,170
+139,female,30,South America,157
+163,male,23,South America,170
+155,female,25,South America,158
+158,male,28,South America,170
+139,female,30,South America,157
+166,male,32,South America,172
+148,female,27,South America,159
+170,male,29,South America,175
+152,female,31,South America,160
+162,male,34,South America,178
+144,female,26,South America,155
+157,male,37,South America,168
+142,female,29,South America,153
+169,male,31,South America,176
+156,female,28,South America,162
+163,male,33,South America,170
+150,female,30,South America,156
+191,male,36,Australia,178
+158,female,38,Australia,164
+181,male,33,Australia,180
+168,female,35,Australia,162
+176,male,37,Australia,176
+159,female,40,Australia,160
+169,male,34,Australia,178
+152,female,36,Australia,158
+183,male,31,Australia,182
+155,female,39,Australia,156
+177,male,32,Australia,179
+147,female,37,Australia,152
+171,male,35,Australia,176
+150,female,38,Australia,155
+188,male,39,Australia,183
+166,female,36,Australia,166
+171,male,37,Asia,175
+131,female,39,Asia,163
+143,male,28,Asia,166
+121,female,30,Asia,155
+162,male,36,Asia,168
+139,female,38,Asia,157
+155,male,33,Asia,173
+147,female,35,Asia,160
+151,male,32,Asia,171
+126,female,34,Asia,158
+136,male,29,Asia,164
+128,female,31,Asia,157
+149,male,31,Asia,170
+135,female,33,Asia,156
+154,male,30,Asia,172
+130,female,32,Asia,159
+140,male,18,Africa,169
+120,female,20,Africa,158
+150,male,19,Africa,169
+132,female,23,Africa,157
+140,male,18,Africa,169
+120,female,20,Africa,158
+150,male,19,Africa,169
+132,female,23,Africa,157
+147,male,22,Africa,166
+129,female,21,Africa,154
+142,male,20,Africa,168
+133,female,24,Africa,155
+137,male,23,Africa,163
+126,female,22,Africa,152
+141,male,21,Africa,167
+130,female,25,Africa,156
+136,male,19,Africa,166
+125,female,24,Africa,153
